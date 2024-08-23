@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="XetVxZPUz-ztH-vccviS">
-    <mxGraphModel dx="2074" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
           <mxGeometry x="713.5" y="265" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-11" value="&lt;font color=&quot;#ea6b66&quot;&gt;HSM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="339" width="145" height="30" as="geometry" />
+          <mxGeometry x="685" y="339" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-5" target="D8mmZQuEbEqO4AMfAsws-10">
           <mxGeometry relative="1" as="geometry" />
@@ -125,6 +125,42 @@
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-41" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS Fraud Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="169.5" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/electricity-box-power-maintenance-by-technician-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--energy-green-electric-pack-people-illustrations-8530753.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="570" width="197.76" height="131.84" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#00FF00;strokeWidth=3;flowAnimation=1;startArrow=classic;startFill=1;gradientColor=#ea6b66;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-44" target="D8mmZQuEbEqO4AMfAsws-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/mobile-mail-11873317-9968156.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-349.94" y="244.5" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-45" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS Alert &amp;amp; Notification Services&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="167.16" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-46" value="&lt;font color=&quot;#ea6b66&quot;&gt;Field Services&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-666.12" y="530" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/man-sitting-in-front-of-a-computer-developing-a-program-11677760-9497418.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="570" width="150.13" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#33FF33;strokeWidth=3;flowAnimation=1;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-52" target="D8mmZQuEbEqO4AMfAsws-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-52" value="&lt;font color=&quot;#ea6b66&quot;&gt;Engineering&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-379.94" y="530" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/project-manager-3d-icon-download-in-png-blend-fbx-gltf-file-formats--man-people-profile-avatars-pack-icons-8772469.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="565" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#33FF33;strokeWidth=3;flowAnimation=1;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-255" y="540" as="sourcePoint" />
+            <mxPoint x="-10" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-60" value="&lt;font color=&quot;#ea6b66&quot;&gt;Management / Customer Relations Team&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="530" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
