@@ -22,9 +22,6 @@
         <mxCell id="D8mmZQuEbEqO4AMfAsws-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/server-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-storage-data-network-cloud-devices-pack-appliances-icons-5602366.png?f=webp;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="240" width="99" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="D8mmZQuEbEqO4AMfAsws-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/server-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-storage-data-network-cloud-devices-pack-appliances-icons-5602366.png?f=webp;" vertex="1" parent="1">
-          <mxGeometry x="100" y="414" width="139" height="139" as="geometry" />
-        </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/server-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-storage-data-network-computer-peripherals-pack-entertainment-icons-7517439.png?f=webp;" vertex="1" parent="1">
           <mxGeometry x="544" width="90" height="90" as="geometry" />
         </mxCell>
@@ -61,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-19" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS Configuration &amp;amp; Monitoring Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="180" width="230" height="50" as="geometry" />
+          <mxGeometry x="1077" y="167.16" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/inventory-inspection-3d-icon-download-in-png-blend-fbx-gltf-file-formats--inspecting-checklist-product-list-warehouse-management-pack-e-commerce-shopping-icons-8746989.png?f=webp;" vertex="1" parent="1">
           <mxGeometry x="1480" y="160" width="267.16" height="267.16" as="geometry" />
@@ -75,10 +72,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8mmZQuEbEqO4AMfAsws-22" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS Aset Tracking Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1498.58" y="180" width="230" height="50" as="geometry" />
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-22" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS Asset Tracking Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1498.58" y="169.5" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8mmZQuEbEqO4AMfAsws-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=none;gradientColor=#97d077;strokeColor=#82b366;flowAnimation=1;shape=flexArrow;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-23" target="D8mmZQuEbEqO4AMfAsws-14">
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=none;gradientColor=#97d077;strokeColor=#82b366;flowAnimation=1;shape=flexArrow;strokeWidth=3;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-23" target="D8mmZQuEbEqO4AMfAsws-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-storage-data-cloud-servers-programming-pack-website-development-icons-8000482.png?f=webp;" vertex="1" parent="1">
@@ -87,17 +84,47 @@
         <mxCell id="D8mmZQuEbEqO4AMfAsws-24" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS OLAP Database&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="790.5" y="690" width="195" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=3;flowAnimation=1;entryX=0.463;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-25" target="D8mmZQuEbEqO4AMfAsws-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2254.8999999999996" y="314.98" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/artificial-intelligence-3d-icon-download-in-png-blend-fbx-gltf-file-formats--robot-ai-robotics-automation-data-analytics-pack-business-icons-8017813.png?f=webp;" vertex="1" parent="1">
           <mxGeometry x="1835.5" y="219.49999999999997" width="159.5" height="159.5" as="geometry" />
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-26" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS AIML Prediction Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="180" width="230" height="50" as="geometry" />
+          <mxGeometry x="1790" y="169.5" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8mmZQuEbEqO4AMfAsws-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;flowAnimation=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=3;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-25" target="D8mmZQuEbEqO4AMfAsws-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1975.9799999999996" y="629.9958620689656" as="sourcePoint" />
             <mxPoint x="1040.02" y="934.4100000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/artificial-intelligence-cloud-data-3d-icon-download-in-png-blend-fbx-gltf-file-formats--ai-database-pack-science-technology-icons-7525136.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="197" width="204.5" height="204.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-34" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS MLOPS Model Deployment&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="167.16" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;flowAnimation=1;strokeWidth=3;jumpStyle=arc;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="946" y="496" as="sourcePoint" />
+            <mxPoint x="1260" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=3;flowAnimation=1;startArrow=classic;startFill=1;jumpStyle=arc;" edge="1" parent="1" source="D8mmZQuEbEqO4AMfAsws-40" target="D8mmZQuEbEqO4AMfAsws-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="462" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/fraud-alert-3d-icon-download-in-png-blend-fbx-gltf-file-formats--thief-detection-incognito-mode-security-cyber-pack-crime-icons-7946822.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="160" y="194.5" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mmZQuEbEqO4AMfAsws-41" value="&lt;font color=&quot;#ea6b66&quot;&gt;TMS Fraud Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="169.5" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
