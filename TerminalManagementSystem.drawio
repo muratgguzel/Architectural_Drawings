@@ -2316,10 +2316,141 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bDglnOhgI9xozZ3lHJ1y" name="CentralVrsDual">
-    <mxGraphModel dx="2155" dy="1054" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3355" dy="1454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AjKih-5kVyegaJxIwCmq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-1" target="AjKih-5kVyegaJxIwCmq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=3;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-1" target="AjKih-5kVyegaJxIwCmq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190.5" y="255.33331298828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="31.666702270507812" y="257.33331298828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.3334503173828" y="276.6666259765625" as="targetPoint" />
+            <mxPoint x="-114" y="11" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=3;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-1" target="AjKih-5kVyegaJxIwCmq-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-191" y="-125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-1" value="&lt;font color=&quot;#ff9999&quot;&gt;Central Device Management Platform&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;TMS&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-268" y="-63" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/pos-terminal-3d-icon-download-in-png-blend-fbx-gltf-file-formats--invoice-machine-cash-till-money-pack-business-icons-8922980.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-835" y="274" width="191.67" height="191.67" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/bus-3d-icon-download-in-png-blend-fbx-gltf-file-formats--travel-school-automobile-public-pack-holidays-icons-7454159.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-583" y="265" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-6" value="&lt;font color=&quot;#00ff00&quot;&gt;Point Of Interface Device&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-833" y="489" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-7" value="&lt;font color=&quot;#3399ff&quot;&gt;Bus Validator&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-542" y="492" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-9" value="&lt;font color=&quot;#ea6b66&quot;&gt;Vending Machine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="494" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-11" value="&lt;font color=&quot;#ff8000&quot;&gt;Kiosk&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="494" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-13" value="TVM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="209" y="497" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/vendor-machine-3d-icon-download-in-png-blend-fbx-gltf-file-formats--juice-coin-automated-city-facility-pack-buildings-icons-6431916.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-281" y="285.65999999999997" width="173.67" height="173.67" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/ticket-vending-machine-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--kiosk-availability-booth-management-film-tickets-ticketing-service-buy-pack-entertainment-illustrations-8663158.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="115" y="271.99" width="301.49" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/self-booking-ticket-service-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--city-pack-miscellaneous-illustrations-3945454.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-44.5" y="294.67" width="171" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.162;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-22" target="AjKih-5kVyegaJxIwCmq-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="839" y="233" />
+              <mxPoint x="655" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-22" value="SMP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="820" y="327" width="117" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-23" value="DX Monitor" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="561" y="-47" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-24" value="TMS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="723" y="-47" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-25" value="DX Configrator" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-47" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-26" value="DX X" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="-47" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-24" target="AjKih-5kVyegaJxIwCmq-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="786" y="175" />
+              <mxPoint x="873" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.578;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-25" target="AjKih-5kVyegaJxIwCmq-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="948" y="173" />
+              <mxPoint x="888" y="173" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/database-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--server-storage-data-network-hop-essential-kit-pack-user-interface-illustrations-2516220.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="-210" width="147" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-35" value="&lt;font color=&quot;#ff9999&quot;&gt;Master Device Configuration Database&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="-243" width="199" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.897;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;flowAnimation=1;" edge="1" parent="1" source="AjKih-5kVyegaJxIwCmq-26" target="AjKih-5kVyegaJxIwCmq-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="958" y="88" as="sourcePoint" />
+            <mxPoint x="898" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/file-3d-illustration-download-in-png-blend-fbx-gltf-formats--document-paper-format-interface-with-tile-pack-user-illustrations-3543873.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="958" y="220" width="103" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-38" value="&lt;font color=&quot;#ff6666&quot;&gt;Dual Device Management&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="804" y="-86" width="147" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/wrong-12198280-9940851.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="-253" width="169" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/correct-3d-icon-download-in-png-blend-fbx-gltf-file-formats--check-incorrect-tick-yes-online-shopping-2-pack-user-interface-icons-5371527.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="-231" width="151" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-42" value="&lt;font color=&quot;#ff6666&quot;&gt;File Base&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="994" y="330" width="57" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="AjKih-5kVyegaJxIwCmq-43" value="&lt;font color=&quot;#ff6666&quot;&gt;RealTime&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="-36" width="57" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
