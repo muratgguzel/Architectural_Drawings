@@ -2359,7 +2359,7 @@
           <mxGeometry x="-583" y="265" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="AjKih-5kVyegaJxIwCmq-6" value="&lt;font color=&quot;#00ff00&quot;&gt;Point Of Interface Device&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-833" y="489" width="148" height="30" as="geometry" />
+          <mxGeometry x="-835" y="494" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjKih-5kVyegaJxIwCmq-7" value="&lt;font color=&quot;#3399ff&quot;&gt;Bus Validator&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-542" y="492" width="148" height="30" as="geometry" />
