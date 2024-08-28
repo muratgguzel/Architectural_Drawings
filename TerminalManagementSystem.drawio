@@ -328,7 +328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nfFBl7_Y5StE1Y7Vkers" name="DFS-TMS-EV-OpenArchitecture">
-    <mxGraphModel dx="2960" dy="1462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3044" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
