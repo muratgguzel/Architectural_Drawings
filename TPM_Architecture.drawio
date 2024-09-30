@@ -1,11 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
-  <diagram name="Page-1" id="_mYJvmgeRwq7VSC3AKh9">
-    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="DFS_ProvisioningDraw" id="_mYJvmgeRwq7VSC3AKh9">
+    <mxGraphModel dx="2037" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZtXv10czIwVztega7ro4-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="480" height="480" as="geometry" />
+        <mxCell id="ZtXv10czIwVztega7ro4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;flowAnimation=1;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="ZtXv10czIwVztega7ro4-7" target="ZtXv10czIwVztega7ro4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="341" y="760" width="620" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-8" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SPM2 Mutual Auth&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1303" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/encryption-key-3d-icon-download-in-png-blend-fbx-gltf-file-formats--digital-access-cryptography-internet-security-pack-crime-icons-6909971.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="688" y="1309" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;strokeWidth=5;flowAnimation=1;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="ZtXv10czIwVztega7ro4-11" target="ZtXv10czIwVztega7ro4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000033&quot;&gt;TPM 2.0 Infenion&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="421" y="1250" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/software-development-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-programming-coding-pack-design-icons-6716438.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="561" y="960" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-13" value="&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#000033&quot;&gt;&lt;b&gt;Provisioning Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="940" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="760" width="620" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/encryption-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--bitcoin-logo-padlock-lock-blockchain-pack-business-illustrations-3927985.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="1300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="1300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/encryption-key-3d-icon-download-in-png-blend-fbx-gltf-file-formats--digital-access-cryptography-internet-security-pack-crime-icons-6909971.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="1310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-18" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000033&quot;&gt;&lt;b&gt;Manufacture Certificate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1533.5" y="1315" width="160.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;strokeWidth=5;flowAnimation=1;strokeColor=#000099;" edge="1" parent="1" source="ZtXv10czIwVztega7ro4-20" target="ZtXv10czIwVztega7ro4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-20" value="&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;TPM 2.0 Infenion&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="1250" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/software-development-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-programming-coding-pack-design-icons-6716438.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1511" y="960" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-22" value="&lt;b style=&quot;color: rgb(0, 0, 51); font-size: 22px;&quot;&gt;Provisioning Module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="940" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/http-3d-icon-download-in-png-blend-fbx-gltf-file-formats--web-link-website-information-technology-pack-design-development-icons-7703548.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="930" width="147.47" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/cloud-network-3d-icon-download-in-png-blend-fbx-gltf-file-formats--computing-hosting-technology-connection-services-and-server-pack-communication-icons-7660660.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="300" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DFS Data Services&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="390" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-26" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 17px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Request for SPM2 Mutual Auth Certificate&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="989" y="1090" width="282" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;flowAnimation=1;strokeWidth=5;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="ZtXv10czIwVztega7ro4-14" target="ZtXv10czIwVztega7ro4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/https-3d-icon-download-in-png-blend-fbx-gltf-file-formats--website-security-http-secure-internet-pack-crime-icons-10075680.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1351" y="510" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-29" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Certificate Service&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;SPM2AuthCert&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1461" y="370" width="297" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-30" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 23px;&quot;&gt;Provisioning Facility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="686" width="1824" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/pc-3d-icon-download-in-png-blend-fbx-gltf-file-formats--computer-device-monitor-laptop-electronic-devices-pack-appliances-icons-5191689.png?f=webp;" vertex="1" parent="ZtXv10czIwVztega7ro4-30">
+          <mxGeometry x="1427" y="687" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-32" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Manufacturing Proxy PC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=10;" vertex="1" parent="ZtXv10czIwVztega7ro4-30">
+          <mxGeometry x="1257" y="768" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/circuit-board-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microchip-microprocessor-chip-motherboard-hardware-engineering-pack-tools-equipment-icons-8356504.png?f=webp;" vertex="1" parent="ZtXv10czIwVztega7ro4-30">
+          <mxGeometry x="433" y="686" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/encryption-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--bitcoin-logo-padlock-lock-blockchain-pack-business-illustrations-3927985.png?f=webp;" vertex="1" parent="ZtXv10czIwVztega7ro4-30">
+          <mxGeometry x="555" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-35" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Anthem Board&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="ZtXv10czIwVztega7ro4-30">
+          <mxGeometry x="268" y="769" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXv10czIwVztega7ro4-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/encryption-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--bitcoin-logo-padlock-lock-blockchain-pack-business-illustrations-3927985.png?f=webp;" vertex="1" parent="1">
+          <mxGeometry x="1841" y="1230" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
