@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnR79YpQgru_kzIVy44T-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="-160" width="342.5" height="342.5" as="geometry" />
+          <mxGeometry x="250" y="-160" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="cnR79YpQgru_kzIVy44T-1" value="APPLE DEVICE" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
           <mxGeometry x="255" y="240" width="335" height="460" as="geometry" />
@@ -77,6 +77,26 @@
         </mxCell>
         <mxCell id="cnR79YpQgru_kzIVy44T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;strokeWidth=3;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;flowAnimation=1;" edge="1" parent="1" source="cnR79YpQgru_kzIVy44T-26" target="cnR79YpQgru_kzIVy44T-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnR79YpQgru_kzIVy44T-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Approach-1&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Apple allows direct connect to SE to registered third parties&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-110" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cnR79YpQgru_kzIVy44T-30" value="EWS Hosted Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-150" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnR79YpQgru_kzIVy44T-31" value="Over the air(OTA) provisioning services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="95" y="350" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnR79YpQgru_kzIVy44T-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;flowAnimation=1;strokeWidth=3;jumpStyle=arc;" edge="1" parent="1" source="cnR79YpQgru_kzIVy44T-35" target="cnR79YpQgru_kzIVy44T-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="31" />
+              <mxPoint x="410" y="133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnR79YpQgru_kzIVy44T-35" value="HSM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="55" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
