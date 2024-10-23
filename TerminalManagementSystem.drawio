@@ -1938,7 +1938,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EWS-Apple_TSM_Integration_Personalization" id="92_yZkKeLrCqZ9ROWjng">
-    <mxGraphModel dx="7865" dy="3088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5266" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="-btM2bdNpj_VeMgJsUGp-0" />
         <mxCell id="-btM2bdNpj_VeMgJsUGp-1" parent="-btM2bdNpj_VeMgJsUGp-0" />
@@ -2187,7 +2187,7 @@
         <mxCell id="74I9FuY6IMXgXmqYRL5N-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/edc-machine-3d-icon-download-in-png-blend-fbx-gltf-file-formats--card-swipe-e-commerce-pack-shopping-icons-8203530.png?f=webp;" vertex="1" parent="-btM2bdNpj_VeMgJsUGp-1">
           <mxGeometry x="2250" y="1800" width="770" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="74I9FuY6IMXgXmqYRL5N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.824;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;strokeWidth=5;fillColor=#647687;strokeColor=#314354;flowAnimation=1;" edge="1" parent="-btM2bdNpj_VeMgJsUGp-1" source="74I9FuY6IMXgXmqYRL5N-0" target="_lfDovnHxiasmKKTYqWy-35">
+        <mxCell id="74I9FuY6IMXgXmqYRL5N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.824;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;strokeWidth=5;fillColor=#1ba1e2;strokeColor=#006EAF;flowAnimation=1;" edge="1" parent="-btM2bdNpj_VeMgJsUGp-1" source="74I9FuY6IMXgXmqYRL5N-0" target="_lfDovnHxiasmKKTYqWy-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="74I9FuY6IMXgXmqYRL5N-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NFC - AUTHORIZATION&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="-btM2bdNpj_VeMgJsUGp-1">
@@ -2226,6 +2226,15 @@
         </mxCell>
         <mxCell id="74I9FuY6IMXgXmqYRL5N-16" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;ISSUER EMV DATA&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="-btM2bdNpj_VeMgJsUGp-1">
           <mxGeometry x="1255" y="565" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1QELepbSFG1rcGMVYKM-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CHIP DATA-ISO8583&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="-btM2bdNpj_VeMgJsUGp-1">
+          <mxGeometry x="1730" y="2232" width="354" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1QELepbSFG1rcGMVYKM-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ISO7816 PERSO APDUs&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="-btM2bdNpj_VeMgJsUGp-1">
+          <mxGeometry x="1440" y="1310" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1QELepbSFG1rcGMVYKM-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/encryption-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--security-protection-lock-cyber-crimes-pack-crime-illustrations-4735080.png?f=webp;" vertex="1" parent="-btM2bdNpj_VeMgJsUGp-1">
+          <mxGeometry x="2150" y="2197" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2425,7 +2434,7 @@
         <mxCell id="GA4FjXd3n5xHrCwNr6cN-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3d.iconscout.com/3d/premium/thumb/edc-machine-3d-icon-download-in-png-blend-fbx-gltf-file-formats--card-swipe-e-commerce-pack-shopping-icons-8203530.png?f=webp;" vertex="1" parent="GA4FjXd3n5xHrCwNr6cN-1">
           <mxGeometry x="2250" y="1800" width="770" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="GA4FjXd3n5xHrCwNr6cN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.824;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;strokeWidth=5;fillColor=#647687;strokeColor=#314354;flowAnimation=1;" edge="1" parent="GA4FjXd3n5xHrCwNr6cN-1" source="GA4FjXd3n5xHrCwNr6cN-74" target="GA4FjXd3n5xHrCwNr6cN-35">
+        <mxCell id="GA4FjXd3n5xHrCwNr6cN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.824;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;strokeWidth=3;fillColor=#647687;strokeColor=#314354;flowAnimation=1;" edge="1" parent="GA4FjXd3n5xHrCwNr6cN-1" source="GA4FjXd3n5xHrCwNr6cN-74" target="GA4FjXd3n5xHrCwNr6cN-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GA4FjXd3n5xHrCwNr6cN-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NFC - AUTHORIZATION&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="GA4FjXd3n5xHrCwNr6cN-1">
